@@ -1,2 +1,2 @@
 # SplitBills
-A simple and convenient app to split your eating out bills
+A simple and convenient app to split your restaurant bills
